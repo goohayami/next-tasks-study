@@ -14,7 +14,7 @@ const NavList = () => {
     {
       id: 2,
       label: "Completed Tasks",
-      link: "/comleted",
+      link: "/completed",
       icon: <FaRegCheckSquare />,
     },
     { id: 3, label: "Expired tasks", link: "/expired", icon: <FaRegClock /> },
